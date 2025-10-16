@@ -5,7 +5,7 @@
 </p>
 
 
-<p align="center"><b>
+<p><b>
   A passionate **Web Developer** eager to start my journey in tech.  
   I love learning new technologies and transforming simple ideas into functional, beautiful web projects. 
 </p></b>
