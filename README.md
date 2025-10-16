@@ -5,10 +5,10 @@
 </p>
 
 
-<p><b>
+<b>
   A passionate **Web Developer** eager to start my journey in tech.  
   I love learning new technologies and transforming simple ideas into functional, beautiful web projects. 
-</p></b>
+</b>
    
 <p align="center">
   🌟 I'm currently working an **AI Friend** — an interactive virtual companion with voice, vision, and emotional understanding.  
