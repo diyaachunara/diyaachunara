@@ -5,18 +5,19 @@ I love learning new technologies and transforming simple ideas into functional, 
 <p align="center">
   <img src="https://media.giphy.com/media/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Princess Leia GIF" width="500"/>
 </p>
+
+
 <p align="center">
   🌟 I'm currently working an **AI Friend** — an interactive virtual companion with voice, vision, and emotional understanding.  
-  It uses **ChatGPT/Gemini APIs**, **real-time voice recognition**, and **animated avatars** to help users relieve **stress and loneliness**,  
+  It uses Gemini APIs, real-time voice recognition, and animated avatars to help users relieve stress and loneliness,  
   especially for introverted individuals.  
 </p>
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyachunara)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyaachunara@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/diyachunara/)
+
 
 ---
 
