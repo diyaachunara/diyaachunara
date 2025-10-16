@@ -1,21 +1,21 @@
-<div align="center" style="border: 2px solid #444; border-radius: 15px; padding: 30px; box-shadow: 0 0 20px rgba(0,0,0,0.2); background-color: #0d1117;">
-
 # 👋 About Me  
 Hi! I'm **Diya**, a passionate **Web Developer** eager to start my journey in tech.  
 I love learning new technologies and transforming simple ideas into functional, beautiful web projects.  
 
-<img src="https://media.giphy.com/media/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Princess Leia GIF" width="250"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Princess Leia GIF" width="300"/>
+</p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diyachunara)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diyaachunara@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/diyachunara/)
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,16 +47,20 @@ I love learning new technologies and transforming simple ideas into functional, 
 
 ---
 
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=diyaachunara&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=diyaachunara&theme=dark&hide_border=false" height="180em"/>
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diyaachunara&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="180em"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=diyaachunara&theme=dark&hide_border=false" height="180em"/>
+</p>
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaachunara&theme=dark&hide_border=false&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaachunara&theme=dark&hide_border=false&layout=compact"/>
+</p>
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=diyaachunara&icon=0&color=0" alt="Profile Visit Counter"/>
-
-</div>
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=diyaachunara&icon=0&color=0" alt="Profile Visit Counter" />
+  </a>
+</p>
