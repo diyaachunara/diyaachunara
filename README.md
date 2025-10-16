@@ -1,9 +1,9 @@
-# 👋 About Me  
-Hi! I'm **Diya**, a passionate **Web Developer** eager to start my journey in tech.  
+# 👋 Hi! I'm **Diya Chunara**,
+A passionate **Web Developer** eager to start my journey in tech.  
 I love learning new technologies and transforming simple ideas into functional, beautiful web projects.  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Princess Leia GIF" width="300"/>
+  <img src="https://media.giphy.com/media/7Gc0z3LjGFPKHB32pE/giphy.gif" alt="Princess Leia GIF" width="500"/>
 </p>
 
 ---
