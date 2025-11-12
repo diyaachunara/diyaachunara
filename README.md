@@ -16,14 +16,14 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 - 🌐 All of my projects are available at: [**My Portfolio**](https://portfolio-git-main-diyaachunara-7653s-projects.vercel.app/)  
 - 📫 Reach me at: **diyaachunara@gmail.com**
   
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=diyaachunara&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
 </p>
 
 ---
 
 ### 🌐 Connect with Me  
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/diyachunara" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -38,19 +38,19 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 ---
 
 ### ⚙️ Languages and Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,tailwind,bootstrap,python,java,mongodb,firebase,flask,django,git,github,postman,netlify,blender,latex&theme=dark" />
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
+<p align="leftr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diyaachunara&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=diyaachunara&theme=dark&hide_border=false"/>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diyaachunara&theme=dark&hide_border=false&layout=compact"/>
 </p>
 
