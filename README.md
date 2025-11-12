@@ -15,7 +15,7 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 ### 👩‍💻 About Me  
 - 🌱 I’m currently working on **AI Friend** – an intelligent virtual companion that uses **voice, vision, and emotion detection** to help users relieve stress and loneliness.  
 - 💻 I enjoy developing **Full-Stack Web Apps**, **AI-based tools**, and **interactive interfaces**.  
-- 🌐 All of my projects are available at: [**My Portfolio**](https://diyachunara.netlify.app/)  
+- 🌐 All of my projects are available at: [**My Portfolio**](https://portfolio-git-main-diyaachunara-7653s-projects.vercel.app/)  
 - 📫 Reach me at: **diyaachunara@gmail.com**
 
 ---
@@ -53,13 +53,6 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 </p>
 
 ---
-
-### 📈 Profile Insights
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=diyaachunara&icon=0&color=0" alt="Profile Visit Counter"/>
-  </a>
-</p>
 
 ---
 <h3 align="center">✨ Let's create something amazing together ✨</h3>
