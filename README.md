@@ -7,7 +7,7 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpazg2bzJqNzc5a2pxcjAybHRlOGQ3ZGRhaXF2eXcybTYxeXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="700"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpazg2bzJqNzc5a2pxcjAybHRlOGQ3ZGRhaXF2eXcybTYxeXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="1000"/>
 </p>
 
 ---
