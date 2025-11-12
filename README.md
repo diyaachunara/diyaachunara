@@ -4,8 +4,6 @@
 Building modern web applications and AI-driven projects through Full-Stack Development & Data Analytics
 </h3>
 
----
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpazg2bzJqNzc5a2pxcjAybHRlOGQ3ZGRhaXF2eXcybTYxeXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="600"/>
 </p>
@@ -37,7 +35,7 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 
 ### ⚙️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,tailwind,bootstrap,python,java,mongodb,firebase,flask,django,git,github,postman,netlify,canva,blender,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,tailwind,bootstrap,python,java,mongodb,firebase,flask,django,git,github,postman,netlify,blender,latex&theme=dark" />
 </p>
 
 ---
