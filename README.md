@@ -15,6 +15,10 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 - 💻 I enjoy developing **Full-Stack Web Apps**, **AI-based tools**, and **interactive interfaces**.  
 - 🌐 All of my projects are available at: [**My Portfolio**](https://portfolio-git-main-diyaachunara-7653s-projects.vercel.app/)  
 - 📫 Reach me at: **diyaachunara@gmail.com**
+  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diyaachunara&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+</p>
 
 ---
 
