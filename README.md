@@ -4,6 +4,11 @@
 Building modern web applications and AI-driven projects through Full-Stack Development & Data Analytics
 </h3>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=diyaachunara&label=Profile%20views&color=0e75b6&style=flat" alt="diyaachunara" />
+</p> 
+
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXRpazg2bzJqNzc5a2pxcjAybHRlOGQ3ZGRhaXF2eXcybTYxeXFqYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zFBj4UsdDKX1uEO05l/giphy.gif" width="700"/>
 </p>
