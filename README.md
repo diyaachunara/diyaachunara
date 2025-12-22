@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diya Chunara</h1>
 
 <h3 align="center">
-Building modern web applications and AI-driven projects through Full-Stack Development & Data Analytics
+Data Analyst focused on transforming complex datasets into clear, actionable insights using Python, SQL, and BI tools. Passionate about data storytelling and problem-solving.
 </h3>
 
 
@@ -15,9 +15,7 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 
 ---
 
-### 👩‍💻 About Me  
-- 🌱 I’m currently working on **AI Friend** – an intelligent virtual companion that uses **voice, vision, and emotion detection** to help users relieve stress and loneliness.  
-- 💻 I enjoy developing **Full-Stack Web Apps**, **AI-based tools**, and **interactive interfaces**.  
+### 👩‍💻 About Me   
 - 🌐 All of my projects are available at: [**My Portfolio**](https://portfolio-git-main-diyaachunara-7653s-projects.vercel.app/)  
 - 📫 Reach me at: **diyaachunara@gmail.com**
   
@@ -44,7 +42,7 @@ Building modern web applications and AI-driven projects through Full-Stack Devel
 
 ### ⚙️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,nodejs,express,tailwind,bootstrap,python,java,mongodb,firebase,flask,django,git,github,postman,netlify,blender,latex&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,mongodb,excel,tableau,powerbi,matplotlib,seaborn,numpy,pandas,scikitlearn,jupyter,git,github&theme=dark" />
 </p>
 
 ---
