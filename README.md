@@ -42,7 +42,7 @@ Data Analyst focused on transforming complex datasets into clear, actionable ins
 
 ### ⚙️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,mongodb,excel,tableau,powerbi,matplotlib,seaborn,numpy,pandas,scikitlearn,jupyter,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,mongodb,numpy,pandas,matplotlib,seaborn,sklearn,jupyter,git,github&theme=dark" />
 </p>
 
 ---
