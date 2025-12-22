@@ -20,7 +20,13 @@ Data Analyst focused on transforming complex datasets into clear, actionable ins
 - 📫 Reach me at: **diyaachunara@gmail.com**
   
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=diyaachunara&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views Counter" />
+<img src="https://skillicons.dev/icons?i=python,r,sql,mysql,postgres,mongodb,git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
 </p>
 
 ---
