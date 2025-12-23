@@ -16,7 +16,7 @@ Data Analyst focused on transforming complex datasets into clear, actionable ins
 ---
 
 ### 👩‍💻 About Me   
-- 🌐 All of my projects are available at: [**My Portfolio**](https://portfolio-git-main-diyaachunara-7653s-projects.vercel.app/)  
+- 🌐 All of my projects are available at: [**My Portfolio**](https://analytics-portfolio-one.vercel.app/)  
 - 📫 Reach me at: **diyaachunara@gmail.com**
   
 ---
