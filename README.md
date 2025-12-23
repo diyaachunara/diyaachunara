@@ -51,7 +51,7 @@ Data Analyst focused on transforming complex datasets into clear, actionable ins
 <img src="https://img.shields.io/badge/Seaborn-4EABE6?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white"/>
+
 
 
 </p>
