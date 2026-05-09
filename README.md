@@ -18,6 +18,10 @@
 
 ## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> About Me
 
+ <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+</p>
+
 - 🎓 Bachelor of Technology in Computer Science Engineering (2022–2026)
 - 📊 Aspiring **Data Analyst** with hands-on experience in Python, SQL, Advanced Excel, and Power BI
 - 🧹 Skilled in data cleaning, validation, KPI analysis, dashboard creation, and reporting automation
@@ -33,10 +37,10 @@
   <a href="mailto:diyaachunara@gmail.com">
     <img src="https://img.shields.io/badge/Email-diyaachunara%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/diya-chunara-844031342/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/diyaachunara">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -74,64 +78,14 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30"> Experience
-
-### Data Science Intern — Future Interns  
-**Nov 2025 – Dec 2025**
-
-- Executed data cleaning, validation, and exploratory data analysis on large real-world datasets
-- Automated reporting using Pivot Tables and advanced Excel formulas for accurate and timely client deliverables
-- Developed 10+ custom visualizations to present statistical findings clearly to non-technical stakeholders
-- Worked with Python, Pandas, NumPy, Excel, and statistical analysis tools
-
----
-
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Projects
-
-### 1. Instagram Ad Campaign Analysis
-- Analysed 5,000+ ad records using Excel and Power BI
-- Used VLOOKUP, Index-Match, Pivot Tables, and Conditional Formatting for KPI analysis
-- Built an interactive dashboard to evaluate CTR, ROI, and campaign effectiveness
-
-### 2. Real-Time Stock Market Analysis
-- Collected and analysed live and historical stock market data
-- Applied time-series analysis to identify trends and volatility
-- Created business-friendly visualizations for data-driven insights
-
-### 3. College Event Feedback Analysis
-- Performed EDA on student feedback datasets
-- Applied validation and formatting techniques in Excel to improve data quality
-- Delivered findings using summaries and visual charts
-
-### 4. Fitness Tracker Application
-- Built a Python Tkinter-based application for tracking 1,000+ user inputs
-- Automated data entry workflows with validation logic
-- Improved usability through a clean and streamlined interface
-
----
-
-## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="30"> Education
-
-### Bachelor of Technology in Computer Science Engineering  
-**Parul Institute of Engineering & Technology**  
-**2022 – 2026**
-
----
-
-## <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30"> Certifications
-
-- Data Science — Cisco Networking Academy
-- Python — IBM
-- Pandas & Intro to SQL — Kaggle
-- Data Visualization with Python — IBM
 
 ---
 
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh0a2F2cml2aTRxZG95czcycHVrcXZoeHByYjY5Y2V5N2V2N2FlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/diyaachunara&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/diyaachunara&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="170"/>
 </p>
 
 <p align="center">
@@ -140,18 +94,10 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="30"> Aesthetic Visual
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
-</p>
-
----
-
 ## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> Profile Views
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=6A5ACD&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/diyaachunara&label=Profile%20views&color=6A5ACD&style=flat" alt="profile views" />
 </p>
 
 ---
