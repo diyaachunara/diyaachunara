@@ -78,9 +78,6 @@
 
 ---
 
-
----
-
 ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjh0a2F2cml2aTRxZG95czcycHVrcXZoeHByYjY5Y2V5N2V2N2FlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMcB8XospGZO8UQq87/giphy.gif" width="35"> GitHub Stats
 
 <p align="center">
